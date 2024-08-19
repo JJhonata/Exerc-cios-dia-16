@@ -1,32 +1,28 @@
-# README 📚
+# 📚 Exercícios de Programação em C
 
-Este documento descreve dois programas em C para lidar com estruturas de dados e cálculos geométricos.
+Bem-vindo ao repositório dos exercícios de programação em C! Aqui você encontrará vários exemplos de código com suas respectivas descrições e funcionalidades. Vamos dar uma olhada em cada exercício:
 
-## Questão 1: Estrutura para Armazenar Dados de uma Pessoa 🧑
+## 1️⃣ Exercício 1: Estruturas Simples
 
-### Descrição
+**Descrição:**  
+Este exercício demonstra o uso de estruturas (`struct`) em C para armazenar e manipular informações de uma pessoa, como nome, idade e endereço.
 
-O programa em C foi desenvolvido para ler e armazenar informações sobre uma pessoa, incluindo nome, idade e endereço. Esses dados são armazenados em uma estrutura e, em seguida, o programa exibe as informações na tela.
+## 2️⃣ Exercício 2: Cálculo de Propriedades de um Retângulo
 
-### Funcionalidades
+**Descrição:**  
+Neste exercício, utilizamos estruturas para representar um retângulo e calcular sua área, perímetro e comprimento da diagonal com base nas coordenadas dos vértices.
 
-- **Leitura de Dados**: O programa solicita ao usuário o nome, a idade e o endereço.
-- **Armazenamento**: Utiliza uma estrutura para armazenar as informações.
-- **Exibição**: Imprime os dados armazenados na tela.
+## 3️⃣ Exercício 3: Média de Notas de Alunos
 
----
+**Descrição:**  
+Armazenamos informações sobre alunos e calculamos a média de suas notas para encontrar o aluno com a maior média. O exercício também inclui a exibição das informações do aluno com a maior média.
 
-## Questão 2: Estrutura para Representar um Retângulo 📏
+## 4️⃣ Exercício 4: Identificação de Pessoa Mais Nova e Mais Velha
 
-### Descrição
+**Descrição:**  
+Este exercício envolve a identificação da pessoa mais nova e mais velha com base na data de nascimento. Compara datas para determinar quem é mais novo e quem é mais velho.
 
-O programa em C define duas estruturas para representar um retângulo: `Ponto` e `Retangulo`. Utiliza essas estruturas para calcular e exibir a área, o comprimento da diagonal e o perímetro do retângulo com base nas coordenadas dos seus vértices.
+## 5️⃣ Exercício 5: Identificação do Atleta Mais Alto e Mais Velho
 
-### Funcionalidades
-
-- **Leitura de Coordenadas**: Solicita as coordenadas dos pontos superior esquerdo e inferior direito do retângulo.
-- **Cálculos Geométricos**:
-  - **Área**: Calcula a área do retângulo.
-  - **Perímetro**: Calcula o perímetro do retângulo.
-  - **Diagonal**: Calcula o comprimento da diagonal do retângulo.
-- **Exibição**: Mostra os resultados calculados na tela.
+**Descrição:**  
+Neste exercício, identificamos o atleta mais alto e o mais velho a partir de uma lista de atletas. O programa determina qual atleta tem a maior altura e qual tem a maior idade.
